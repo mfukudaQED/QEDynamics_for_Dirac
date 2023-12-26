@@ -1,0 +1,23 @@
+..
+SCF_H2O2.out
+CIcofs.txt
+densmat.txt
+2   !symm | 3 -> C2h or D2h, 4 -> otherwise
+1   !kbal
+1   !NROOT
+0.0D0 1.0D0 1.0D0 0.01D0 0.00000000D0 0.00000000D0 0.00000000D0 !length of x,y,z,  mesh width, coord of center
+18 0     !core active
+2 1 2   !orb(1) orb(2) orb(3)
+1        !int
+1        !local
+-1.d-3   !threshold of occupation
+K    ! 'w'->make by QED, 'r'->read c_natu.dat, 'u'->use densmat.txt, 'K'->KRCI or DHF, DFT
+0.d0   !|vecBM_x|
+0.d0   !|vecBM_y|
+0.d0   !|vecBM_z|
+0.d0   !|vecEM_x|
+0.d0   !|vecEM_y|
+0.d0   !|vecEM_z|
+0.d0   !|vecmu_x|
+0.d0   !|vecmu_y|
+0.d0   !|vecmu_z|
