@@ -1,0 +1,83 @@
+ # Calling calcCItorq ... 
+ #############################################
+ Set expansion functions for electrons.
+ #############################################
+ # Calling read_EDMinp
+../basis.txt
+../vectors.txt
+../SCF_H2O2.out
+../CIcofs.txt
+../densmat.txt
+ # Calling read_DiracOutput
+ read_DiracOutput ver.     2012/4/16           
+ Calculation date : Wed Oct 18 13:56:20 2023
+ # NBS :          84
+ # NBS_E :          84
+ # NBS_P :          84
+ # NBS_TOTAL :         284
+ count primitive gaussian in Basis.txt
+ start countBasis
+ end countBasis
+ NAT =           4
+bnum_L(i)   =      17 bnum_S(i)   =      24
+bnum_LTA(i) =      34 bnum_STA(i) =      85
+bnum_L(i)   =      17 bnum_S(i)   =      24
+bnum_LTA(i) =      34 bnum_STA(i) =      85
+bnum_L(i)   =       7 bnum_S(i)   =       8
+bnum_LTA(i) =       9 bnum_STA(i) =      25
+bnum_L(i)   =       7 bnum_S(i)   =       8
+bnum_LTA(i) =       9 bnum_STA(i) =      25
+bnum_LT =      86 bnum_ST =     220
+ start reading basis.txt
+cn & xyzc of atom(  1)     8  0.000000000000000E+00  0.000000000000000E+00  1.313697460000000E+00
+cn & xyzc of atom(  2)     8  0.000000000000000E+00  0.000000000000000E+00 -1.313697460000000E+00
+cn & xyzc of atom(  3)     1  1.608569410000000E+00  6.662912600000001E-01  1.701496930000000E+00
+cn & xyzc of atom(  4)     1  1.608569410000000E+00 -6.662912600000001E-01 -1.701496930000000E+00
+ check pg Large
+ ic=          86 NBS_L=          86
+ check pg Small
+ ic=         220 NBS_S=         220
+ check translaten
+ check readBasis
+ start reading vectors.txt
+ tmpNBS=         168
+ finish reading vectors.txt
+ 
+  -- Start setting natural orbitals at : Wed Oct 18 13:56:20 2023 --
+ 
+ 
+   - Total occupation number of  core  orbitals :   18
+   - Total occupation number of active orbitals :    0.000000000000000
+   - Total occupation number :   18.000000000000000
+   - Total charge of atoms   :   18
+ 
+  -- End setting natural orbitals at : Wed Oct 18 13:56:20 2023 --
+ 
+ 
+  -- Start calc integration values at : Wed Oct 18 13:56:20 2023 --
+  -- End calc integration values at : Wed Oct 18 13:56:20 2023 --
+   -  CPU time is :        0.403
+   - Wall time is :        0.104
+ 
+  -- Start calc local quantities at : Wed Oct 18 13:56:20 2023 --
+ 
+  * Calculation range and mesh
+  ----------------------------
+   # meshx meshy meshz :     1  101  101
+   # meshyz :      10201
+   # mesh   :      10201
+   # xori xend :       0.00000      0.00000
+   # yori yend :      -0.50000      0.50000
+   # zori zend :      -0.50000      0.50000
+   # dx dy dz  :       0.00000      0.01000      0.01000
+ 
+  * orbital number to be calculated : 0
+ 
+         1 of          1 completed at : 13:56:22.241
+   -  CPU time is :        2.078
+   - Wall time is :        1.506
+ 
+  -- End calc local quantities at : Wed Oct 18 13:56:22 2023 --
+ 
+          -- Normal end of program --
+ 
