@@ -25,5 +25,7 @@ by [Dirac code](https://www.diracprogram.org).
     Send the filled license document by email to senami__at__me.kyoto-u.ac.jp
 
 1. Contact:  
-    Masato Senami senami__at__me.kyoto-u.ac.jp
-
+    Masato Senami  
+    senami__at__me.kyoto-u.ac.jp  
+    Please replace __at__ by @.
+ 
