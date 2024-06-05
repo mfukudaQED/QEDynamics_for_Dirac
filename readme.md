@@ -19,9 +19,9 @@ by Dirac(https://www.diracprogram.org) code.
     Any use of QEDynamics (module for Dirac) that results in published material should cite the following: 
     ''QEDynamics (module for Dirac) (2023), written by M. Senami, K. Ichikawa, A. Tachibana  
     with contributions from M. Fukuda and K. Soga,  
-    (https://github.com/mfukudaQED/**************)''
+    (https://github.com/mfukudaQED/QEDynamics_for_Dirac)''
 
 1. Contact:  
-    Masato Senami senami@me.kyoto-u.ac.jp
+    Masato Senami senami__at__me.kyoto-u.ac.jp
 
 
