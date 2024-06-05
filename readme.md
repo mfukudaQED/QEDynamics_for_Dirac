@@ -3,7 +3,7 @@
 ## About
 The "QEDynamics (module for Dirac)" is a program code to calculate  
 the local physical quantities from the electronic structures obtained  
-by Dirac(https://www.diracprogram.org) code.
+by [Dirac code](https://www.diracprogram.org).
 
 ## LISENCE, Terms of use
 1. No Redistribution :  
@@ -23,5 +23,4 @@ by Dirac(https://www.diracprogram.org) code.
 
 1. Contact:  
     Masato Senami senami__at__me.kyoto-u.ac.jp
-
 
