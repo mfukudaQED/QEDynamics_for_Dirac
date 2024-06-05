@@ -21,6 +21,9 @@ by [Dirac code](https://www.diracprogram.org).
     with contributions from M. Fukuda and K. Soga,  
     (https://github.com/mfukudaQED/QEDynamics_for_Dirac)''
 
+1. [Lisence common to all revisions of QEDynamics](https://mfukudaqed.github.io/Tachibana_Lab_HP/qed/license.pdf)
+    Send the filled license document by email to senami__at__me.kyoto-u.ac.jp
+
 1. Contact:  
     Masato Senami senami__at__me.kyoto-u.ac.jp
 
