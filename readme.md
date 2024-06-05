@@ -27,5 +27,5 @@ by [Dirac code](https://www.diracprogram.org).
 1. Contact:  
     Masato Senami  
     senami__at__me.kyoto-u.ac.jp  
-    Please replace __at__ by @.
+    Please replace `__at__` by @.
  
